@@ -1,6 +1,6 @@
 let config = {
   emailjs: {
-    serviceID: "gmail",
+    serviceID: "service_xeuyl08",
     templateID: "template_31lx514",
     userID: "PJ4q-EAIyqdTwsFcfLSvt"
   }
